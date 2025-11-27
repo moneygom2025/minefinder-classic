@@ -1,108 +1,80 @@
-Privacy Policy
+# Privacy Policy for MineFinder Classic
 
-Last updated: 27.11.2025
+**Last Updated: November 27, 2025**
 
-This Privacy Policy explains how 'MineFinder Classic' ("the App", "we", "us", or "our") collects, uses, and protects your information.
-By using the App, you agree to the terms described below.
+## Introduction
 
-1. Information We Collect
+MineFinder Classic ("we," "our," or "the app") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
-The App may collect the following information to operate and improve its features.
+## Information We Collect
 
-A. Personal Information You Provide
+### Automatically Collected Information
 
-We may collect information that you voluntarily provide, such as:
+MineFinder Classic collects minimal information to provide our services:
 
-Name
+- **Game Statistics**: Your best completion times and game preferences are stored locally on your device only
+- **Advertising Data**: We use Google AdMob to display advertisements. AdMob may collect certain information as described in their privacy policy
 
-Email address
+### Information You Provide
 
-Contact information
+MineFinder Classic does not require you to create an account or provide any personal information.
 
-B. Device and Usage Data
+## How We Use Information
 
-We may automatically collect non-personal information, including:
+The information we collect is used to:
 
-Device model and OS version
+- Store your game progress and best scores locally on your device
+- Display relevant advertisements through Google AdMob
+- Improve app performance and user experience
 
-App usage analytics
+## Third-Party Services
 
-Crash logs and performance data
+### Google AdMob
 
-C. Tracking Information (App Tracking Transparency)
+We use Google AdMob to display advertisements in our app. AdMob may collect and use data to provide personalized advertising. For more information about how Google uses data, please visit:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google AdMob Partner Policy](https://support.google.com/admob/answer/6128543)
 
-The App may request permission to track your activity across other companies' apps and websites.
-This is required because the App includes NSUserTrackingUsageDescription in its configuration.
+### Data Tracking
 
-If tracking is enabled or allowed by the user, the App may collect the following identifiers:
+We request permission to track data for advertising purposes through Apple's App Tracking Transparency framework. This permission helps us show you more relevant ads and support the free version of our app. You can choose to allow or deny tracking at any time through your device settings.
 
-Device Identifier (IDFA)
+## Data Storage
 
-Data used for analytics or advertising optimization
+All game data (including high scores and preferences) is stored locally on your device using Apple's UserDefaults. We do not transmit this data to any servers or third parties.
 
-The App does not collect sensitive personal information for tracking; only technical identifiers may be used for limited analytics or service improvement.
+## Children's Privacy
 
-Users may disable tracking at any time through their device settings.
+MineFinder Classic does not knowingly collect personal information from children under 13. The app is designed to be family-friendly and contains only advertisements appropriate for all ages.
 
-D. Third-Party Services
-
-The App may use trusted third-party services (e.g., Apple Analytics, Firebase, or others).
-These providers may collect data independently under their own privacy policies.
-
-2. How We Use Your Information
-
-We may use collected information to:
-
-Provide and improve App features
-
-Analyze usage patterns for performance enhancements
-
-Respond to user inquiries or support requests
-
-Improve stability, design, and gameplay experience
-
-(If tracking is enabled) Help optimize advertising or analytics
-
-The App does not sell, rent, or trade user information.
-
-3. Data Retention
-
-We retain data only as long as necessary to fulfill the purposes in this Privacy Policy or as required by law.
-Data may be deleted or anonymized upon user request.
-
-4. Data Security
-
-We use commercially reasonable security measures to protect your information.
-However, no electronic storage or communication can be guaranteed as completely secure.
-
-5. Children’s Privacy
-
-The App does not knowingly collect personal information from children under 13.
-If such data is discovered, we will delete it promptly.
-
-6. Your Rights
+## Your Rights
 
 You have the right to:
 
-Access information we hold about you
+- Opt out of personalized advertising through your device's privacy settings
+- Delete all locally stored game data by uninstalling the app
+- Manage ad tracking permissions in your device's Settings > Privacy > Tracking
 
-Request correction or deletion
+## Changes to This Policy
 
-Withdraw consent, including tracking permission
+We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last Updated" date at the top of this policy.
 
-For any requests, please contact us at:
+## Contact Us
 
-Email: moneygom2025@gmail.com
+If you have questions about this Privacy Policy, please contact us at:
 
-7. Changes to This Privacy Policy
+**Email**: [Your Contact Email]
 
-We may update this Privacy Policy periodically.
-Updates will be posted on this page with a new "Last updated" date.
+**Repository**: https://github.com/moneygom2025/minefinder-classic
 
-8. Contact Us
+## Compliance
 
-If you have any questions about this Privacy Policy, please contact:
+This app complies with:
+- Apple App Store Guidelines
+- Google AdMob Policies
+- Children's Online Privacy Protection Act (COPPA)
+- General Data Protection Regulation (GDPR) principles
 
-Email: moneygom2025@gmail.com
+---
 
-Owner: moneygom2
+By using MineFinder Classic, you agree to this Privacy Policy.
